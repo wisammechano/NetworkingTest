@@ -15,7 +15,7 @@ import java.net.URL;
 /**
  * Created by wisam on Oct 22 17.
  */
-class GithubLoaderAsync extends AsyncTask {
+class GithubLoaderAsync extends AsyncTask<Object, Object, Object> {
 
     private final Context mContext;
 
