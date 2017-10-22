@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkingTest</string>
+    <string name="repo_text">%1$s by %2$s</string>
+</resources>
